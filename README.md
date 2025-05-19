@@ -1,6 +1,6 @@
 # 📊 Customer Churn Analysis – Power BI Dashboard
 
-![Churn Dashboard Overview]([media/churn.png](https://github.com/Adityaxrana/Customer-Churn-Analysis/blob/main/MEDIA/Churn.png))
+![Churn Dashboard Overview](https://github.com/Adityaxrana/Customer-Churn-Analysis/blob/main/MEDIA/Churn.png)
 
 > **A dynamic and interactive Power BI dashboard uncovering insights into customer churn behavior and business health.**
 
