@@ -1,6 +1,6 @@
 # 📊 Customer Churn Analysis – Power BI Dashboard
 
-![Churn Dashboard Overview](media/churn.png)
+![Churn Dashboard Overview]([media/churn.png](https://github.com/Adityaxrana/Customer-Churn-Analysis/blob/main/MEDIA/Churn.png))
 
 > **A dynamic and interactive Power BI dashboard uncovering insights into customer churn behavior and business health.**
 
@@ -20,6 +20,7 @@ Customer churn—the rate at which customers stop doing business with an organiz
 - Visualize churn trends across regions, customer categories, and time periods.
 - Enable interactive filtering and dynamic exploration through Power BI.
 
+![Overview]([[media/churn.png](https://github.com/Adityaxrana/Customer-Churn-Analysis/blob/main/MEDIA/Churn.png)](https://github.com/Adityaxrana/Customer-Churn-Analysis/blob/main/MEDIA/Overview.png))
 ---
 
 ## 🧩 Tools & Technologies
@@ -35,7 +36,7 @@ Customer churn—the rate at which customers stop doing business with an organiz
 
 ## 📈 Dashboard Highlights
 
-![Churn Insights](media/churn_insights.png)
+![Churn Insights]([media/churn_insights.png](https://github.com/Adityaxrana/Customer-Churn-Analysis/blob/main/MEDIA/Insights.png))
 
 ### Key Metrics Displayed:
 - 📉 **Churn Rate**
